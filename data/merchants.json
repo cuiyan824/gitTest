@@ -1,0 +1,62 @@
+{
+  "seller": {
+    "name": "万家饺子",
+    "images": "img/userImg/sj01.png",
+    "score": 4.9,
+    "sell": "月售345单",
+    "send": "￥35起送 | ￥3配送",
+    "field": "蜂鸟专送",
+    "distance": "3.5km | 30分钟",
+    "description": "各种饺子",
+    "supports": [
+      {
+        "type": 0,
+        "description": "饿了吗新用户首单立减9元"
+      },
+      {
+        "type": 1,
+        "description": "特价商品5元起"
+      }
+    ]
+  },
+  "information": {
+    "name": "万家饺子",
+    "send": "￥35起送 | ￥3配送",
+    "description": "各种饺子",
+    "goods": [
+      {
+        "type": 0,
+        "images": "img/userImg/sp01.png",
+        "name": "纯肉饺子",
+        "description": "新鲜猪肉",
+        "send": "￥15"
+      },
+      {
+        "type": 1,
+        "images": "img/userImg/sp02.png",
+        "name": "玉米饺子",
+        "description": "玉米猪肉",
+        "send": "￥16"
+      },{
+        "type": 2,
+        "images": "img/userImg/sp03.png",
+        "name": "虾仁饺子",
+        "description": "虾仁三鲜",
+        "send": "￥26"
+      },{
+        "type": 3,
+        "images": "img/userImg/sp04.png",
+        "name": "素三鲜饺子",
+        "description": "素三鲜",
+        "send": "￥15"
+      }
+    ]
+  },
+  "goods": {
+    "name": "万家饺子",
+    "images": "img/userImg/sj01.png",
+    "send": "￥35起送 | ￥3配送",
+    "description": "各种饺子"
+  }
+
+}
